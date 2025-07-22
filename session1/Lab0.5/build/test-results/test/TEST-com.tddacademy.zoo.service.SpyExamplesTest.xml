@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tddacademy.zoo.service.SpyExamplesTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-07-22T07:39:19" hostname="192.168.1.3" time="0.03">
+  <properties/>
+  <testcase name="Spy Example 2: Should verify SMS was sent when removing animal" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.02"/>
+  <testcase name="Spy Example 6: Should verify email service availability check" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.001"/>
+  <testcase name="Spy Example 10: Should verify notification service interaction" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.003"/>
+  <testcase name="Spy Example 9: Should verify no notifications for failed operations" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.001"/>
+  <testcase name="Spy Example 3: Should verify email was sent for unhealthy animal" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.001"/>
+  <testcase name="Spy Example 1: Should verify notification was sent when adding animal" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.001"/>
+  <testcase name="Spy Example 8: Should verify notification parameters" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.001"/>
+  <testcase name="Spy Example 7: Should verify multiple notifications for multiple animals" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.001"/>
+  <testcase name="Spy Example 4: Should not send notification for healthy animal" classname="com.tddacademy.zoo.service.SpyExamplesTest" time="0.001"/>
+  <system-out><![CDATA[SMS sent to: +1234567890 - Message: Animal Simba has been removed from the zoo.
+Email sent to: staff@zoo.com - Subject: New Animal Added - Message: New animal Simba has been added to the zoo.
+Email sent to: vet@zoo.com - Subject: Animal Health Alert - Message: Animal with ID 1 needs medical attention.
+Email sent to: staff@zoo.com - Subject: New Animal Added - Message: New animal Simba has been added to the zoo.
+Email sent to: staff@zoo.com - Subject: New Animal Added - Message: New animal Simba has been added to the zoo.
+Email sent to: staff@zoo.com - Subject: New Animal Added - Message: New animal Simba has been added to the zoo.
+Email sent to: staff@zoo.com - Subject: New Animal Added - Message: New animal Nala has been added to the zoo.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

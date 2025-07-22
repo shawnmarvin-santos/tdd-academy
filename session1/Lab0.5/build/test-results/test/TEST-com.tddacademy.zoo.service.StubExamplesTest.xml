@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tddacademy.zoo.service.StubExamplesTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-07-22T07:39:19" hostname="192.168.1.3" time="0.008">
+  <properties/>
+  <testcase name="Stub Example 2: Should return empty list for non-existent species" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.0"/>
+  <testcase name="Stub Example 5: Should handle healthy animal check with stub" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.0"/>
+  <testcase name="Stub Example 11: Should handle empty repository with stub" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.001"/>
+  <testcase name="Stub Example 8: Should delete animal successfully with stub" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.0"/>
+  <testcase name="Stub Example 10: Should get all animals with stub data" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.0"/>
+  <testcase name="Stub Example 6: Should handle sick animal check with stub" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.001"/>
+  <testcase name="Stub Example 9: Should fail to delete non-existent animal with stub" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.0"/>
+  <testcase name="Stub Example 12: Should calculate zero average for empty repository" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.001"/>
+  <testcase name="Stub Example 7: Should create animal with stub response" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.001"/>
+  <testcase name="Stub Example 3: Should get animal count using stub" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.0"/>
+  <testcase name="Stub Example 4: Should calculate average weight with stub data" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.001"/>
+  <testcase name="Stub Example 1: Should find animals by species using stub" classname="com.tddacademy.zoo.service.StubExamplesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
